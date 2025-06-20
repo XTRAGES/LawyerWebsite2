@@ -62,8 +62,8 @@ LawyerWebsite/
 
 1. **Clone/Download the project**
    ```bash
-   git clone https://github.com/XTRAGES/LawyerWebsite2.git
-   cd LawyerWebsite
+   git clone https://github.com/XTRAGES/Specter-Associates.git
+   cd Specter-Associates
    ```
 
 2. **Database Setup**

@@ -22,18 +22,7 @@
             </div>
         </div>
     </section>
-        <div class="container">
-            <div class="philosophy-content">
-                <div class="philosophy-text">
-                    <h2>Our Winning Philosophy</h2>
-                    <p>At Specter & Associates, we operate on a simple principle: we do what it takes to win. We don't believe in half-measures or settling for second best. Our approach is aggressive, meticulous, and relentless. We analyze every angle, anticipate every move, and execute with precision. We're not just lawyers; we are strategists, negotiators, and closers. Your victory is our business.</p>
-                </div>
-                <div class="philosophy-image">
-                    <img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Strategy session">
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <section id="results" class="results">
         <div class="container">

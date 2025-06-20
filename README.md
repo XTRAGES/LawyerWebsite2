@@ -154,6 +154,7 @@ CREATE TABLE messages (
 ## 📞 Support
 
 For technical support or questions about this project, please contact XTRAGES.
+
 aldinzendeli33@gmail.com
 
 ---

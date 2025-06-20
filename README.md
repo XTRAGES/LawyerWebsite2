@@ -62,7 +62,7 @@ LawyerWebsite/
 
 1. **Clone/Download the project**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/XTRAGES/LawyerWebsite2.git
    cd LawyerWebsite
    ```
 
